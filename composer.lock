@@ -1313,16 +1313,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.45",
+            "version": "1.0.46",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "a99f94e63b512d75f851b181afcdf0ee9ebef7e6"
+                "reference": "f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a99f94e63b512d75f851b181afcdf0ee9ebef7e6",
-                "reference": "a99f94e63b512d75f851b181afcdf0ee9ebef7e6",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2",
+                "reference": "f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2",
                 "shasum": ""
             },
             "require": {
@@ -1334,7 +1334,7 @@
             "require-dev": {
                 "ext-fileinfo": "*",
                 "phpspec/phpspec": "^3.4",
-                "phpunit/phpunit": "^5.7"
+                "phpunit/phpunit": "^5.7.10"
             },
             "suggest": {
                 "ext-fileinfo": "Required for MimeType",
@@ -1393,7 +1393,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2018-05-07T08:44:23+00:00"
+            "time": "2018-08-22T07:45:22+00:00"
         },
         {
             "name": "linkorb/jsmin-php",
@@ -1682,16 +1682,16 @@
         },
         {
             "name": "october/backend",
-            "version": "v1.0.440",
+            "version": "v1.0.441",
             "source": {
                 "type": "git",
                 "url": "https://github.com/octoberrain/backend.git",
-                "reference": "367bbfe75ca0f099af213db12e16825f1182dd3b"
+                "reference": "ae2e4f9563049ddff30f6a7dab9d4053668d2088"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/octoberrain/backend/zipball/367bbfe75ca0f099af213db12e16825f1182dd3b",
-                "reference": "367bbfe75ca0f099af213db12e16825f1182dd3b",
+                "url": "https://api.github.com/repos/octoberrain/backend/zipball/ae2e4f9563049ddff30f6a7dab9d4053668d2088",
+                "reference": "ae2e4f9563049ddff30f6a7dab9d4053668d2088",
                 "shasum": ""
             },
             "require": {
@@ -1737,20 +1737,20 @@
                 "october",
                 "october cms"
             ],
-            "time": "2018-08-16T03:42:56+00:00"
+            "time": "2018-08-21T03:24:59+00:00"
         },
         {
             "name": "october/cms",
-            "version": "v1.0.440",
+            "version": "v1.0.441",
             "source": {
                 "type": "git",
                 "url": "https://github.com/octoberrain/cms.git",
-                "reference": "53d24321da6263f5d457722042bea069b312512a"
+                "reference": "60fda640d5452a1e7b79bb99d4c2aff5c5517a25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/octoberrain/cms/zipball/53d24321da6263f5d457722042bea069b312512a",
-                "reference": "53d24321da6263f5d457722042bea069b312512a",
+                "url": "https://api.github.com/repos/octoberrain/cms/zipball/60fda640d5452a1e7b79bb99d4c2aff5c5517a25",
+                "reference": "60fda640d5452a1e7b79bb99d4c2aff5c5517a25",
                 "shasum": ""
             },
             "require": {
@@ -1796,7 +1796,7 @@
                 "october",
                 "october cms"
             ],
-            "time": "2018-08-06T00:16:27+00:00"
+            "time": "2018-08-21T03:28:12+00:00"
         },
         {
             "name": "october/rain",
@@ -1898,16 +1898,16 @@
         },
         {
             "name": "october/system",
-            "version": "v1.0.440",
+            "version": "v1.0.441",
             "source": {
                 "type": "git",
                 "url": "https://github.com/octoberrain/system.git",
-                "reference": "bf1e0d9b2661a6c3b539971c16f2bf053dbd03d2"
+                "reference": "48e15fa0521235a603b2c37d11ed3ac0cd94bf1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/octoberrain/system/zipball/bf1e0d9b2661a6c3b539971c16f2bf053dbd03d2",
-                "reference": "bf1e0d9b2661a6c3b539971c16f2bf053dbd03d2",
+                "url": "https://api.github.com/repos/octoberrain/system/zipball/48e15fa0521235a603b2c37d11ed3ac0cd94bf1f",
+                "reference": "48e15fa0521235a603b2c37d11ed3ac0cd94bf1f",
                 "shasum": ""
             },
             "require": {
@@ -1953,7 +1953,7 @@
                 "october cms",
                 "system"
             ],
-            "time": "2018-08-16T04:11:05+00:00"
+            "time": "2018-08-21T03:24:59+00:00"
         },
         {
             "name": "oyejorge/less.php",
